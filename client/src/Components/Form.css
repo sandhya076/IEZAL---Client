@@ -1,0 +1,36 @@
+.header{
+    /* text-align: start; */
+    /* color: blue; */
+    /* font-size: small; */
+    font-size: 17px;
+    font-style: normal;
+
+
+}
+.headings{
+    padding: 10px 5px;
+    margin-bottom: 2px;
+}
+.App{
+    background-color: aquamarine;
+}
+.button{
+    display: flex;
+}
+
+.downrs{
+    display: flex;
+}
+#button{
+    margin-left: 10px;
+    margin-right: 501px;
+}
+.resetrs{
+    color: aqua;
+    margin-right: 50px;
+}
+.optionstyle{
+    display: flex;
+    font: inherit;
+    color: currentColor;
+}
